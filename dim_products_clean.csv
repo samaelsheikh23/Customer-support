@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+PRD-101,Fresh Milk 1L,Dairy,45
+PRD-102,Greek Yogurt 500g,Dairy,60
+PRD-103,White Cheese 250g,Dairy,75
+PRD-104,Butter 200g,Dairy,55
+PRD-105,Bananas 1kg,Produce,35
+PRD-106,Tomatoes 1kg,Produce,25
+PRD-107,Cucumbers 1kg,Produce,20
+PRD-108,Oranges 1kg,Produce,30
+PRD-109,Orange Juice 1L,Beverages,50
+PRD-110,Sparkling Water 6-pack,Beverages,65
+PRD-111,Cola 2L,Beverages,40
+PRD-112,Iced Tea 500ml,Beverages,25
+PRD-113,Dish Soap 750ml,Household,48
+PRD-114,Paper Towels 4-pack,Household,70
+PRD-115,Laundry Detergent 1kg,Household,95
+PRD-116,Trash Bags 30ct,Household,38
+PRD-117,Potato Chips 150g,Snacks,28
+PRD-118,Chocolate Bar 100g,Snacks,22
+PRD-119,Mixed Nuts 200g,Snacks,65
+PRD-120,Biscuits 300g,Snacks,32

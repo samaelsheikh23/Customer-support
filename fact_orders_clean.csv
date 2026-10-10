@@ -1,0 +1,264 @@
+order_id,customer_id,product_id,product_name,category,quantity,unit_price,order_date,area,status,customer_name,rider_id,promised_time,actual_delivery_time,delay_reason,delay_minutes,total_sales
+ORD-30059,CUST-1028,PRD-105,Bananas 1kg,Produce,3,35,2026-03-22,Nasr City,Delivered,Rasha Ibrahim,RID-10,2026-03-22 15:15:00,2026-03-22 15:09:00,On Time,0.0,105
+ORD-30200,CUST-1011,PRD-117,Potato Chips 150g,Snacks,2,28,2026-05-02,Maadi,Delivered,Wael Farid,RID-02,2026-05-02 12:30:00,2026-05-02 12:15:00,On Time,0.0,56
+ORD-30173,CUST-1026,PRD-104,Butter 200g,Dairy,1,55,2026-05-23,Maadi,Delivered,Nesma ElSayed,RID-11,2026-05-23 19:00:00,2026-05-23 19:00:00,On Time,0.0,55
+ORD-30143,CUST-1039,PRD-107,Cucumbers 1kg,Produce,2,20,2026-04-10,Maadi,Delivered,Mariam Younes,RID-03,2026-04-10 14:00:00,2026-04-10 14:05:00,Unknown Reason,5.0,40
+ORD-30012,CUST-1021,PRD-103,White Cheese 250g,Dairy,2,75,2026-02-09,Gleem,Delivered,Ayman Ragab,RID-05,2026-02-09 17:30:00,2026-02-09 17:24:00,On Time,0.0,150
+ORD-30019,CUST-1040,PRD-101,Fresh Milk 1L,Dairy,3,45,2026-02-17,Nasr City,Delivered,Rana Mahmoud,RID-08,2026-02-17 21:30:00,2026-02-17 22:04:00,Traffic,34.0,135
+ORD-30103,CUST-1019,PRD-119,Mixed Nuts 200g,Snacks,2,65,2026-04-14,Gleem,Delivered,Salma Aboulfotouh,RID-03,2026-04-14 12:45:00,2026-04-14 12:33:00,On Time,0.0,130
+ORD-30187,CUST-1043,PRD-117,Potato Chips 150g,Snacks,1,28,2026-05-10,Gleem,Delivered,Fadi Zaki,RID-06,2026-05-10 21:30:00,2026-05-10 21:30:00,On Time,0.0,28
+ORD-30168,CUST-1013,PRD-107,Cucumbers 1kg,Produce,4,20,2026-05-28,Zamalek,Delivered,Rania Ibrahim,RID-05,2026-05-28 20:15:00,2026-05-28 20:10:00,On Time,0.0,80
+ORD-30215,CUST-1002,PRD-110,Sparkling Water 6-pack,Beverages,3,65,2026-05-09,Gleem,Cancelled,Kamal Zaki,,,,no delays,0.0,195
+ORD-30074,CUST-1045,PRD-102,Greek Yogurt 500g,Dairy,1,60,2026-03-03,Gleem,Delivered,Hazem ElSayed,RID-11,2026-03-03 14:00:00,2026-03-03 13:53:00,On Time,0.0,60
+ORD-30094,CUST-1021,PRD-106,Tomatoes 1kg,Produce,2,25,2026-03-25,Gleem,Returned,Ayman Ragab,RID-04,2026-03-25 12:15:00,2026-03-25 12:08:00,On Time,0.0,50
+ORD-30241,CUST-1035,PRD-107,Cucumbers 1kg,Produce,4,20,2026-02-15,Nasr City,Delivered,Adham Farouk,RID-09,2026-02-15 12:00:00,2026-02-15 11:55:00,On Time,0.0,80
+ORD-30250,CUST-1016,PRD-113,Dish Soap 750ml,Household,3,48,2026-03-14,Maadi,Delivered,Rasha Fathy,RID-03,2026-03-14 19:15:00,2026-03-14 19:15:00,On Time,0.0,144
+ORD-30013,CUST-1034,PRD-102,Greek Yogurt 500g,Dairy,2,60,2026-02-13,Miami,Delivered,Emad Younes,RID-08,2026-02-13 18:45:00,2026-02-13 19:09:00,Rider shortage,24.0,120
+ORD-30120,CUST-1005,PRD-103,White Cheese 250g,Dairy,2,75,2026-04-07,Gleem,Delivered,Rana Ezzat,RID-02,2026-04-07 18:30:00,2026-04-07 18:25:00,On Time,0.0,150
+ORD-30005,CUST-1014,PRD-103,White Cheese 250g,Dairy,1,75,2026-02-05,Miami,Delivered,Wael Nasser,RID-11,2026-02-05 12:15:00,2026-02-05 12:12:00,On Time,0.0,75
+ORD-30039,CUST-1030,PRD-101,Fresh Milk 1L,Dairy,1,45,2026-02-08,Smouha,Delivered,Fady Farouk,RID-09,2026-02-08 18:15:00,2026-02-08 18:06:00,On Time,0.0,45
+ORD-30149,CUST-1030,PRD-103,White Cheese 250g,Dairy,2,75,2026-04-25,Smouha,Delivered,Fady Farouk,RID-09,2026-04-25 20:00:00,2026-04-25 20:07:00,Unknown Reason,7.0,150
+ORD-30251,CUST-1016,PRD-108,Oranges 1kg,Produce,3,30,2026-11-05,Maadi,Delivered,Rasha Fathy,RID-03,2026-05-11 09:45:00,2026-05-11 09:37:00,On Time,0.0,90
+ORD-30117,CUST-1043,PRD-109,Orange Juice 1L,Beverages,1,50,2026-04-24,Gleem,Delivered,Fadi Zaki,RID-05,2026-04-24 15:00:00,2026-04-24 14:53:00,On Time,0.0,50
+ORD-30151,CUST-1051,PRD-119,Mixed Nuts 200g,Snacks,2,65,2026-04-16,Smouha,Delivered,Laila Fathy,RID-05,2026-04-16 11:15:00,2026-04-16 11:07:00,On Time,0.0,130
+ORD-30071,CUST-1015,PRD-114,Paper Towels 4-pack,Household,1,70,2026-03-08,Miami,Delivered,Sherif ElSayed,RID-11,2026-03-08 12:15:00,2026-03-08 12:22:00,Unknown Reason,7.0,70
+ORD-30178,CUST-1055,PRD-107,Cucumbers 1kg,Produce,2,20,2026-05-28,Nasr City,Delivered,Khaled Nasser,RID-06,2026-05-28 12:00:00,2026-05-28 12:35:00,Unknown Reason,35.0,40
+ORD-30018,CUST-1014,PRD-105,Bananas 1kg,Produce,4,35,2026-02-23,Miami,Delivered,Wael Nasser,RID-01,2026-02-23 18:45:00,2026-02-23 18:37:00,On Time,0.0,140
+ORD-30177,CUST-1020,PRD-119,Mixed Nuts 200g,Snacks,1,65,2026-05-17,Gleem,Delivered,Sami Kandil,RID-07,2026-05-17 20:15:00,2026-05-17 20:18:00,Unknown Reason,3.0,65
+ORD-30091,CUST-1007,PRD-112,Iced Tea 500ml,Beverages,4,25,2026-03-02,Zamalek,Delivered,Tarek Mahmoud,RID-05,2026-03-02 18:45:00,2026-03-02 18:44:00,On Time,0.0,100
+ORD-30040,CUST-1040,PRD-101,Fresh Milk 1L,Dairy,3,45,2026-02-28,Nasr City,Delivered,Rana Mahmoud,RID-11,2026-02-28 20:15:00,2026-02-28 20:14:00,On Time,0.0,135
+ORD-30261,CUST-1019,PRD-111,Cola 2L,Beverages,3,40,2026-12-02,Gleem,Delivered,Salma Aboulfotouh,RID-03,2026-02-12 16:15:00,2026-02-12 16:10:00,On Time,0.0,120
+ORD-30109,CUST-1023,PRD-106,Tomatoes 1kg,Produce,1,25,2026-04-22,Maadi,Delivered,Bassem Farid,RID-10,2026-04-22 17:30:00,2026-04-22 17:23:00,On Time,0.0,25
+ORD-30006,CUST-1013,PRD-109,Orange Juice 1L,Beverages,2,50,2026-02-24,Zamalek,Delivered,Rania Ibrahim,RID-06,2026-02-24 12:15:00,2026-02-24 12:15:00,On Time,0.0,100
+ORD-30026,CUST-1035,PRD-112,Iced Tea 500ml,Beverages,2,25,2026-02-06,Nasr City,Delivered,Adham Farouk,RID-02,2026-02-06 16:00:00,2026-02-06 15:54:00,On Time,0.0,50
+ORD-30052,CUST-1052,PRD-118,Chocolate Bar 100g,Snacks,2,22,2026-03-22,Gleem,Cancelled,Heba Ezzat,,,,no delays,0.0,44
+ORD-30174,CUST-1049,PRD-101,Fresh Milk 1L,Dairy,2,45,2026-05-14,Smouha,Delivered,Farida Ezzat,RID-04,2026-05-14 15:00:00,2026-05-14 15:07:00,Unknown Reason,7.0,90
+ORD-30195,CUST-1015,PRD-107,Cucumbers 1kg,Produce,1,20,2026-05-31,Miami,Delivered,Sherif ElSayed,RID-07,2026-05-31 11:45:00,2026-05-31 12:09:00,Item unavailable,24.0,20
+ORD-30148,CUST-1031,PRD-111,Cola 2L,Beverages,1,40,2026-04-25,Nasr City,Delivered,Doaa Nasser,RID-12,2026-04-25 13:00:00,2026-04-25 13:06:00,Unknown Reason,6.0,40
+ORD-30128,CUST-1003,PRD-108,Oranges 1kg,Produce,2,30,2026-04-13,Smouha,Delivered,Ahmed ElSayed,RID-09,2026-04-13 15:00:00,2026-04-13 14:57:00,On Time,0.0,60
+ORD-30035,CUST-1005,PRD-113,Dish Soap 750ml,Household,3,48,2026-02-14,Gleem,Delivered,Rana Ezzat,RID-02,2026-02-14 17:30:00,2026-02-14 17:29:00,On Time,0.0,144
+ORD-30063,CUST-1042,PRD-111,Cola 2L,Beverages,3,40,2026-03-21,Miami,Delivered,Omar Fathy,RID-06,2026-03-21 16:30:00,2026-03-21 16:31:00,Unknown Reason,1.0,120
+ORD-30158,CUST-1041,PRD-110,Sparkling Water 6-pack,Beverages,3,65,2026-05-16,Zamalek,Delivered,Ayman Shawky,RID-11,2026-05-16 09:45:00,2026-05-16 09:39:00,On Time,0.0,195
+ORD-30140,CUST-1010,PRD-107,Cucumbers 1kg,Produce,2,20,2026-04-07,Zamalek,Delivered,Aya ElSayed,RID-02,2026-04-07 20:30:00,2026-04-07 20:30:00,In Progress,0.0,40
+ORD-30205,CUST-1020,PRD-107,Cucumbers 1kg,Produce,2,20,2026-05-26,Gleem,Delivered,Sami Kandil,RID-07,2026-05-26 16:00:00,2026-05-26 15:41:00,On Time,0.0,40
+ORD-30171,CUST-1043,PRD-108,Oranges 1kg,Produce,1,30,2026-05-18,Gleem,Delivered,Fadi Zaki,RID-04,2026-05-18 14:45:00,2026-05-18 14:38:00,On Time,0.0,30
+ORD-30113,CUST-1040,PRD-108,Oranges 1kg,Produce,3,30,2026-04-14,Nasr City,Delivered,Rana Mahmoud,RID-05,2026-04-14 15:15:00,2026-04-14 15:38:00,Unknown Reason,23.0,90
+ORD-30028,CUST-1034,PRD-109,Orange Juice 1L,Beverages,3,50,2026-05-02,Miami,Delivered,Emad Younes,RID-06,2026-02-05 18:45:00,2026-02-05 19:09:00,Rider shortage,24.0,150
+ORD-30263,CUST-1019,PRD-104,Butter 200g,Dairy,3,55,2026-05-28,Gleem,Delivered,Salma Aboulfotouh,RID-09,2026-05-28 18:15:00,2026-05-28 18:11:00,On Time,0.0,165
+ORD-30107,CUST-1001,PRD-115,Laundry Detergent 1kg,Household,3,95,2026-11-04,Maadi,Delivered,Sherif Fathy,RID-08,2026-04-11 15:45:00,2026-04-11 16:01:00,Rider shortage,16.0,285
+ORD-30181,CUST-1024,PRD-106,Tomatoes 1kg,Produce,1,25,2026-05-23,Miami,Delivered,Doaa Samir,RID-10,2026-05-23 18:30:00,2026-05-23 19:10:00,Item unavailable,40.0,25
+ORD-30106,CUST-1042,PRD-108,Oranges 1kg,Produce,3,30,2026-04-16,Miami,Delivered,Omar Fathy,RID-05,2026-04-16 15:00:00,2026-04-16 14:59:00,On Time,0.0,90
+ORD-30043,CUST-1015,PRD-120,Biscuits 300g,Snacks,1,32,2026-03-31,Miami,Delivered,Sherif ElSayed,RID-08,2026-03-31 19:15:00,2026-03-31 19:09:00,On Time,0.0,32
+ORD-30182,CUST-1037,PRD-115,Laundry Detergent 1kg,Household,1,95,2026-05-22,Smouha,Delivered,Karim Samir,RID-06,2026-05-22 21:15:00,2026-05-22 21:15:00,In Progress,0.0,95
+ORD-30118,CUST-1053,PRD-104,Butter 200g,Dairy,1,55,2026-10-04,Smouha,Delivered,Nourhan Ragab,RID-12,2026-04-10 19:45:00,2026-04-10 19:43:00,On Time,0.0,55
+ORD-30020,CUST-1046,PRD-102,Greek Yogurt 500g,Dairy,3,60,2026-02-22,Maadi,Delivered,Adham Mahmoud,RID-11,2026-02-22 20:45:00,2026-02-22 20:47:00,Unknown Reason,2.0,180
+ORD-30045,CUST-1005,PRD-102,Greek Yogurt 500g,Dairy,3,60,2026-03-17,Gleem,Delivered,Rana Ezzat,RID-03,2026-03-17 19:00:00,2026-03-17 19:01:00,Unknown Reason,1.0,180
+ORD-30080,CUST-1049,PRD-107,Cucumbers 1kg,Produce,2,20,2026-03-27,Smouha,Delivered,Farida Ezzat,RID-01,2026-03-27 18:30:00,2026-03-27 18:28:00,On Time,0.0,40
+ORD-30213,CUST-1055,PRD-106,Tomatoes 1kg,Produce,3,25,2026-05-18,Nasr City,Delivered,Khaled Nasser,RID-07,2026-05-18 18:45:00,2026-05-18 19:08:00,Rider shortage,23.0,75
+ORD-30203,CUST-1011,PRD-112,Iced Tea 500ml,Beverages,2,25,2026-05-25,Maadi,Delivered,Wael Farid,RID-08,2026-05-25 21:00:00,2026-05-25 20:54:00,On Time,0.0,50
+ORD-30259,CUST-1019,PRD-117,Potato Chips 150g,Snacks,3,28,2026-04-20,Gleem,Delivered,Salma Aboulfotouh,RID-09,2026-04-20 20:45:00,2026-04-20 20:39:00,On Time,0.0,84
+ORD-30207,CUST-1015,PRD-102,Greek Yogurt 500g,Dairy,2,60,2026-05-07,Miami,Returned,Sherif ElSayed,RID-03,2026-05-07 15:30:00,2026-05-07 15:26:00,On Time,0.0,120
+ORD-30228,CUST-1023,PRD-106,Tomatoes 1kg,Produce,3,25,2026-02-28,Maadi,Delivered,Bassem Farid,RID-12,2026-02-28 17:15:00,2026-02-28 17:14:00,On Time,0.0,75
+ORD-30260,CUST-1019,PRD-105,Bananas 1kg,Produce,3,35,2026-03-05,Gleem,Delivered,Salma Aboulfotouh,RID-04,2026-03-05 20:15:00,2026-03-05 20:16:00,Unknown Reason,1.0,105
+ORD-30139,CUST-1051,PRD-113,Dish Soap 750ml,Household,2,48,2026-04-26,Smouha,Delivered,Laila Fathy,RID-05,2026-04-26 14:15:00,2026-04-26 14:12:00,On Time,0.0,96
+ORD-30164,CUST-1048,PRD-112,Iced Tea 500ml,Beverages,2,25,2026-05-30,Gleem,Delivered,Reem Mahmoud,RID-08,2026-05-30 14:00:00,2026-05-30 13:58:00,On Time,0.0,50
+ORD-30111,CUST-1053,PRD-116,Trash Bags 30ct,Household,2,38,2026-09-04,Smouha,Delivered,Nourhan Ragab,RID-09,2026-04-09 15:15:00,2026-04-09 15:13:00,On Time,0.0,76
+ORD-30237,CUST-1028,PRD-115,Laundry Detergent 1kg,Household,3,95,2026-02-12,Nasr City,Delivered,Rasha Ibrahim,RID-03,2026-02-12 16:30:00,2026-02-12 16:24:00,On Time,0.0,285
+ORD-30258,CUST-1019,PRD-102,Greek Yogurt 500g,Dairy,4,60,2026-05-28,Gleem,Delivered,Salma Aboulfotouh,RID-06,2026-05-28 13:45:00,2026-05-28 13:37:00,On Time,0.0,240
+ORD-30032,CUST-1045,PRD-107,Cucumbers 1kg,Produce,2,20,2026-02-28,Gleem,Delivered,Hazem ElSayed,RID-09,2026-02-28 17:15:00,2026-02-28 17:02:00,On Time,0.0,40
+ORD-30123,CUST-1022,PRD-109,Orange Juice 1L,Beverages,1,50,2026-04-23,Smouha,Returned,Islam Zaki,RID-10,2026-04-23 14:15:00,2026-04-23 14:08:00,On Time,0.0,50
+ORD-30086,CUST-1039,PRD-103,White Cheese 250g,Dairy,1,75,2026-03-15,Maadi,Delivered,Mariam Younes,RID-04,2026-03-15 13:00:00,2026-03-15 13:16:00,Item unavailable,16.0,75
+ORD-30189,CUST-1022,PRD-109,Orange Juice 1L,Beverages,3,50,2026-05-14,Smouha,Delivered,Islam Zaki,RID-02,2026-05-14 09:45:00,2026-05-14 09:38:00,On Time,0.0,150
+ORD-30049,CUST-1034,PRD-110,Sparkling Water 6-pack,Beverages,2,65,2026-03-11,Miami,Delivered,Emad Younes,RID-07,2026-03-11 20:00:00,2026-03-11 20:33:00,Traffic,33.0,130
+ORD-30170,CUST-UNKNOWN,PRD-120,Biscuits 300g,Snacks,2,32,2026-05-19,Maadi,Delivered,Unknown Customer,,,,no delays,0.0,64
+ORD-30034,CUST-1043,PRD-101,Fresh Milk 1L,Dairy,2,45,2026-02-14,Gleem,Delivered,Fadi Zaki,RID-05,2026-02-14 20:30:00,2026-02-14 20:30:00,On Time,0.0,90
+ORD-30100,CUST-1008,PRD-113,Dish Soap 750ml,Household,2,48,2026-04-04,Nasr City,Delivered,Karim Aboulfotouh,RID-02,2026-04-04 15:15:00,2026-04-04 15:15:00,On Time,0.0,96
+ORD-30036,CUST-1053,PRD-103,White Cheese 250g,Dairy,2,75,2026-09-02,Smouha,Delivered,Nourhan Ragab,RID-01,2026-02-09 20:00:00,2026-02-09 19:51:00,On Time,0.0,150
+ORD-30165,CUST-1004,PRD-108,Oranges 1kg,Produce,2,30,2026-05-27,Gleem,Delivered,Ahmed Zaki,RID-01,2026-05-27 12:30:00,2026-05-27 12:32:00,Unknown Reason,2.0,60
+ORD-30245,CUST-1035,PRD-115,Laundry Detergent 1kg,Household,4,95,2026-02-16,Nasr City,Delivered,Adham Farouk,RID-05,2026-02-16 16:30:00,2026-02-16 17:10:00,Traffic,40.0,380
+ORD-30030,CUST-1054,PRD-119,Mixed Nuts 200g,Snacks,1,65,2026-02-26,Zamalek,Delivered,Youssef Zaki,RID-06,2026-02-26 09:45:00,2026-02-26 09:36:00,On Time,0.0,65
+ORD-30001,CUST-1032,PRD-108,Oranges 1kg,Produce,1,30,2026-02-14,Miami,Delivered,Marwa ElNaggar,RID-08,2026-02-14 14:30:00,2026-02-14 14:23:00,On Time,0.0,30
+ORD-30180,CUST-1014,PRD-108,Oranges 1kg,Produce,4,30,2026-03-05,Miami,Delivered,Wael Nasser,RID-12,2026-05-03 12:30:00,2026-05-03 13:14:00,Traffic,44.0,120
+ORD-30089,CUST-1005,PRD-101,Fresh Milk 1L,Dairy,2,45,2026-03-16,Gleem,Returned,Rana Ezzat,RID-06,2026-03-16 17:15:00,2026-03-16 17:15:00,In Progress,0.0,90
+ORD-30102,CUST-1040,PRD-101,Fresh Milk 1L,Dairy,1,45,2026-04-11,Nasr City,Delivered,Rana Mahmoud,RID-07,2026-04-11 14:00:00,2026-04-11 14:16:00,Item unavailable,16.0,45
+ORD-30068,CUST-1038,PRD-116,Trash Bags 30ct,Household,2,38,2026-03-25,Zamalek,Delivered,Heba Adel,RID-03,2026-03-25 18:15:00,2026-03-25 18:31:00,Item unavailable,16.0,76
+ORD-30184,CUST-1019,PRD-101,Fresh Milk 1L,Dairy,2,45,2026-05-20,Gleem,Cancelled,Salma Aboulfotouh,,,,no delays,0.0,90
+ORD-30029,CUST-1019,PRD-107,Cucumbers 1kg,Produce,1,20,2026-02-05,Gleem,Delivered,Salma Aboulfotouh,RID-07,2026-02-05 17:15:00,2026-02-05 17:15:00,In Progress,0.0,20
+ORD-30017,CUST-1052,PRD-106,Tomatoes 1kg,Produce,1,25,2026-02-08,Gleem,Delivered,Heba Ezzat,RID-05,2026-02-08 13:30:00,2026-02-08 13:21:00,On Time,0.0,25
+ORD-30079,CUST-1052,PRD-104,Butter 200g,Dairy,1,55,2026-12-03,Gleem,Cancelled,Heba Ezzat,,,,no delays,0.0,55
+ORD-30096,CUST-1024,PRD-110,Sparkling Water 6-pack,Beverages,4,65,2026-04-04,Miami,Delivered,Doaa Samir,RID-11,2026-04-04 18:45:00,2026-04-04 19:16:00,Unknown Reason,31.0,260
+ORD-30146,CUST-1032,PRD-104,Butter 200g,Dairy,1,55,2026-04-20,Miami,Returned,Marwa ElNaggar,RID-12,2026-04-20 11:30:00,2026-04-20 12:05:00,Unknown Reason,35.0,55
+ORD-30048,CUST-1055,PRD-106,Tomatoes 1kg,Produce,1,25,2026-03-07,Nasr City,Delivered,Khaled Nasser,RID-06,2026-03-07 13:45:00,2026-03-07 13:50:00,Unknown Reason,5.0,25
+ORD-30225,CUST-1023,PRD-103,White Cheese 250g,Dairy,4,75,2026-03-28,Maadi,Delivered,Bassem Farid,RID-03,2026-03-28 19:00:00,2026-03-28 18:56:00,On Time,0.0,300
+ORD-30092,CUST-1045,PRD-110,Sparkling Water 6-pack,Beverages,1,65,2026-01-03,Gleem,Delivered,Hazem ElSayed,RID-08,2026-03-01 17:15:00,2026-03-01 17:18:00,Unknown Reason,3.0,65
+ORD-30108,CUST-1027,PRD-108,Oranges 1kg,Produce,3,30,2026-04-29,Miami,Delivered,Ehab Saeed,RID-10,2026-04-29 18:00:00,2026-04-29 18:05:00,Unknown Reason,5.0,90
+ORD-30041,CUST-1045,PRD-106,Tomatoes 1kg,Produce,4,25,2026-02-17,Gleem,Delivered,Hazem ElSayed,RID-10,2026-02-17 11:30:00,2026-02-17 11:35:00,Unknown Reason,5.0,100
+ORD-30147,CUST-1021,PRD-115,Laundry Detergent 1kg,Household,2,95,2026-04-27,Gleem,Delivered,Ayman Ragab,RID-04,2026-04-27 10:45:00,2026-04-27 10:44:00,On Time,0.0,190
+ORD-30160,CUST-1048,PRD-102,Greek Yogurt 500g,Dairy,4,60,2026-05-16,Gleem,Delivered,Reem Mahmoud,RID-08,2026-05-16 19:00:00,2026-05-16 18:46:00,On Time,0.0,240
+ORD-30070,CUST-1002,PRD-112,Iced Tea 500ml,Beverages,2,25,2026-06-03,Gleem,Delivered,Kamal Zaki,RID-09,2026-03-06 11:00:00,2026-03-06 11:00:00,On Time,0.0,50
+ORD-30227,CUST-1023,PRD-117,Potato Chips 150g,Snacks,5,28,2026-04-02,Maadi,Delivered,Bassem Farid,RID-08,2026-04-02 16:45:00,2026-04-02 16:48:00,Unknown Reason,3.0,140
+ORD-30135,CUST-1045,PRD-102,Greek Yogurt 500g,Dairy,1,60,2026-04-22,Gleem,Delivered,Hazem ElSayed,RID-05,2026-04-22 18:45:00,2026-04-22 18:42:00,On Time,0.0,60
+ORD-30067,CUST-UNKNOWN,PRD-109,Orange Juice 1L,Beverages,2,50,2026-03-22,Maadi,Delivered,Unknown Customer,,,,no delays,0.0,100
+ORD-30231,CUST-1023,PRD-105,Bananas 1kg,Produce,3,35,2026-03-03,Maadi,Delivered,Bassem Farid,RID-12,2026-03-03 20:45:00,2026-03-03 20:52:00,Unknown Reason,7.0,105
+ORD-30221,CUST-1018,PRD-102,Greek Yogurt 500g,Dairy,2,60,2026-05-18,Gleem,Delivered,Emad Hassan,RID-01,2026-05-18 12:45:00,2026-05-18 13:05:00,Traffic,20.0,120
+ORD-30133,CUST-1054,PRD-109,Orange Juice 1L,Beverages,1,50,2026-04-10,Zamalek,Returned,Youssef Zaki,RID-11,2026-04-10 11:30:00,2026-04-10 11:46:00,Traffic,16.0,50
+ORD-30060,CUST-1021,PRD-104,Butter 200g,Dairy,2,55,2026-03-02,Gleem,Delivered,Ayman Ragab,RID-08,2026-03-02 21:30:00,2026-03-02 21:33:00,Unknown Reason,3.0,110
+ORD-30121,CUST-1007,PRD-109,Orange Juice 1L,Beverages,1,50,2026-04-25,Zamalek,Delivered,Tarek Mahmoud,RID-03,2026-04-25 16:30:00,2026-04-25 16:46:00,Item unavailable,16.0,50
+ORD-30194,CUST-1003,PRD-118,Chocolate Bar 100g,Snacks,4,22,2026-05-15,Smouha,Delivered,Ahmed ElSayed,RID-07,2026-05-15 20:15:00,2026-05-15 19:58:00,On Time,0.0,88
+ORD-30172,CUST-1049,PRD-108,Oranges 1kg,Produce,1,30,2026-05-13,Smouha,Delivered,Farida Ezzat,RID-01,2026-05-13 18:00:00,2026-05-13 17:55:00,On Time,0.0,30
+ORD-30188,CUST-1007,PRD-106,Tomatoes 1kg,Produce,1,25,2026-05-10,Zamalek,Delivered,Tarek Mahmoud,RID-07,2026-05-10 10:15:00,2026-05-10 10:19:00,Unknown Reason,4.0,25
+ORD-30209,CUST-1032,PRD-114,Paper Towels 4-pack,Household,2,70,2026-05-30,Miami,Delivered,Marwa ElNaggar,RID-06,2026-05-30 18:30:00,2026-05-30 18:23:00,On Time,0.0,140
+ORD-30244,CUST-1035,PRD-111,Cola 2L,Beverages,3,40,2026-02-16,Nasr City,Delivered,Adham Farouk,RID-01,2026-02-16 12:15:00,2026-02-16 12:44:00,Unknown Reason,29.0,120
+ORD-30015,CUST-1053,PRD-120,Biscuits 300g,Snacks,1,32,2026-02-19,Smouha,Delivered,Nourhan Ragab,RID-01,2026-02-19 20:30:00,2026-02-19 20:21:00,On Time,0.0,32
+ORD-30233,CUST-1028,PRD-114,Paper Towels 4-pack,Household,3,70,2026-04-25,Nasr City,Delivered,Rasha Ibrahim,RID-11,2026-04-25 13:00:00,2026-04-25 13:45:00,Traffic,45.0,210
+ORD-30183,CUST-1049,PRD-116,Trash Bags 30ct,Household,2,38,2026-05-23,Smouha,Delivered,Farida Ezzat,RID-08,2026-05-23 20:45:00,2026-05-23 20:52:00,Unknown Reason,7.0,76
+ORD-30192,CUST-1039,PRD-108,Oranges 1kg,Produce,2,30,2026-05-09,Maadi,Cancelled,Mariam Younes,,,,no delays,0.0,60
+ORD-30124,CUST-1025,PRD-104,Butter 200g,Dairy,4,55,2026-04-18,Smouha,Delivered,Omar Adel,RID-03,2026-04-18 13:00:00,2026-04-18 12:52:00,On Time,0.0,220
+ORD-30022,CUST-1044,PRD-112,Iced Tea 500ml,Beverages,1,25,2026-02-07,Gleem,Delivered,Nourhan Hassan,RID-10,2026-02-07 18:15:00,2026-02-07 18:13:00,On Time,0.0,25
+ORD-30090,CUST-1037,PRD-103,White Cheese 250g,Dairy,1,75,2026-03-12,Smouha,Returned,Karim Samir,RID-11,2026-03-12 15:15:00,2026-03-12 15:08:00,On Time,0.0,75
+ORD-30057,CUST-UNKNOWN,PRD-111,Cola 2L,Beverages,1,40,2026-06-03,Nasr City,Delivered,Unknown Customer,,,,no delays,0.0,40
+ORD-30056,CUST-UNKNOWN,PRD-108,Oranges 1kg,Produce,4,30,2026-03-17,Smouha,Delivered,Unknown Customer,,,,no delays,0.0,120
+ORD-30190,CUST-1023,PRD-110,Sparkling Water 6-pack,Beverages,1,65,2026-05-03,Maadi,Delivered,Bassem Farid,RID-09,2026-05-03 18:00:00,2026-05-03 18:00:00,On Time,0.0,65
+ORD-30247,CUST-1035,PRD-105,Bananas 1kg,Produce,3,35,2026-05-02,Nasr City,Delivered,Adham Farouk,RID-08,2026-02-05 19:00:00,2026-02-05 19:00:00,On Time,0.0,105
+ORD-30085,CUST-1015,PRD-101,Fresh Milk 1L,Dairy,2,45,2026-03-22,Miami,Delivered,Sherif ElSayed,RID-09,2026-03-22 10:15:00,2026-03-22 10:16:00,Unknown Reason,1.0,90
+ORD-30054,CUST-1003,PRD-104,Butter 200g,Dairy,1,55,2026-03-10,Smouha,Delivered,Ahmed ElSayed,RID-03,2026-03-10 15:30:00,2026-03-10 15:29:00,On Time,0.0,55
+ORD-30235,CUST-1028,PRD-115,Laundry Detergent 1kg,Household,3,95,2026-03-18,Nasr City,Delivered,Rasha Ibrahim,RID-03,2026-03-18 18:30:00,2026-03-18 19:24:00,Rider shortage,54.0,285
+ORD-30115,CUST-1034,PRD-103,White Cheese 250g,Dairy,2,75,2026-04-10,Miami,Delivered,Emad Younes,RID-09,2026-04-10 16:45:00,2026-04-10 16:36:00,On Time,0.0,150
+ORD-30202,CUST-1015,PRD-103,White Cheese 250g,Dairy,1,75,2026-12-05,Miami,Delivered,Sherif ElSayed,RID-06,2026-05-12 18:00:00,2026-05-12 17:47:00,On Time,0.0,75
+ORD-30119,CUST-1024,PRD-112,Iced Tea 500ml,Beverages,4,25,2026-04-04,Miami,Delivered,Doaa Samir,RID-02,2026-04-04 19:45:00,2026-04-04 19:40:00,On Time,0.0,100
+ORD-30162,CUST-1038,PRD-102,Greek Yogurt 500g,Dairy,4,60,2026-05-14,Zamalek,Cancelled,Heba Adel,,,,no delays,0.0,240
+ORD-30212,CUST-1043,PRD-111,Cola 2L,Beverages,1,40,2026-05-24,Gleem,Delivered,Fadi Zaki,RID-01,2026-05-24 18:00:00,2026-05-24 18:16:00,Traffic,16.0,40
+ORD-30055,CUST-1053,PRD-105,Bananas 1kg,Produce,1,35,2026-03-21,Smouha,Delivered,Nourhan Ragab,RID-11,2026-03-21 11:00:00,2026-03-21 10:49:00,On Time,0.0,35
+ORD-30229,CUST-1023,PRD-114,Paper Towels 4-pack,Household,3,70,2026-03-21,Maadi,Delivered,Bassem Farid,RID-06,2026-03-21 18:00:00,2026-03-21 17:51:00,On Time,0.0,210
+ORD-30185,CUST-1049,PRD-112,Iced Tea 500ml,Beverages,1,25,2026-05-08,Smouha,Delivered,Farida Ezzat,RID-12,2026-05-08 13:45:00,2026-05-08 13:37:00,On Time,0.0,25
+ORD-30155,CUST-UNKNOWN,PRD-102,Greek Yogurt 500g,Dairy,3,60,2026-05-11,Gleem,Delivered,Unknown Customer,,,,no delays,0.0,180
+ORD-30153,CUST-1011,PRD-108,Oranges 1kg,Produce,2,30,2026-04-23,Maadi,Delivered,Wael Farid,RID-12,2026-04-23 11:30:00,2026-04-23 11:22:00,On Time,0.0,60
+ORD-30099,CUST-1044,PRD-112,Iced Tea 500ml,Beverages,3,25,2026-04-23,Gleem,Delivered,Nourhan Hassan,RID-05,2026-04-23 13:30:00,2026-04-23 13:30:00,On Time,0.0,75
+ORD-30159,CUST-1016,PRD-102,Greek Yogurt 500g,Dairy,1,60,2026-05-18,Maadi,Cancelled,Rasha Fathy,,,,no delays,0.0,60
+ORD-30131,CUST-1040,PRD-110,Sparkling Water 6-pack,Beverages,3,65,2026-04-26,Nasr City,Delivered,Rana Mahmoud,RID-05,2026-04-26 16:30:00,2026-04-26 16:24:00,On Time,0.0,195
+ORD-30098,CUST-1025,PRD-110,Sparkling Water 6-pack,Beverages,3,65,2026-04-03,Smouha,Delivered,Omar Adel,RID-12,2026-04-03 15:30:00,2026-04-03 15:26:00,On Time,0.0,195
+ORD-30214,CUST-1028,PRD-102,Greek Yogurt 500g,Dairy,1,60,2026-05-18,Nasr City,Delivered,Rasha Ibrahim,RID-07,2026-05-18 17:15:00,2026-05-18 17:17:00,Unknown Reason,2.0,60
+ORD-30083,CUST-1023,PRD-112,Iced Tea 500ml,Beverages,3,25,2026-03-13,Maadi,Cancelled,Bassem Farid,,,,no delays,0.0,75
+ORD-30239,CUST-1028,PRD-103,White Cheese 250g,Dairy,3,75,2026-03-24,Nasr City,Delivered,Rasha Ibrahim,RID-09,2026-03-24 10:00:00,2026-03-24 10:00:00,In Progress,0.0,225
+ORD-30095,CUST-1019,PRD-102,Greek Yogurt 500g,Dairy,3,60,2026-04-23,Gleem,Returned,Salma Aboulfotouh,RID-04,2026-04-23 19:30:00,2026-04-23 19:26:00,On Time,0.0,180
+ORD-30141,CUST-1029,PRD-104,Butter 200g,Dairy,1,55,2026-04-30,Zamalek,Delivered,Sherif Kandil,RID-11,2026-04-30 16:00:00,2026-04-30 16:00:00,On Time,0.0,55
+ORD-30232,CUST-1023,PRD-114,Paper Towels 4-pack,Household,5,70,2026-03-19,Maadi,Delivered,Bassem Farid,RID-12,2026-03-19 15:15:00,2026-03-19 15:01:00,On Time,0.0,350
+ORD-30206,CUST-1054,PRD-117,Potato Chips 150g,Snacks,1,28,2026-03-05,Zamalek,Delivered,Youssef Zaki,RID-06,2026-05-03 20:30:00,2026-05-03 20:13:00,On Time,0.0,28
+ORD-30082,CUST-1005,PRD-101,Fresh Milk 1L,Dairy,1,45,2026-03-16,Gleem,Delivered,Rana Ezzat,RID-09,2026-03-16 12:00:00,2026-03-16 12:00:00,On Time,0.0,45
+ORD-30125,CUST-1046,PRD-108,Oranges 1kg,Produce,3,30,2026-04-25,Maadi,Delivered,Adham Mahmoud,RID-02,2026-04-25 19:45:00,2026-04-25 19:45:00,On Time,0.0,90
+ORD-30186,CUST-1027,PRD-111,Cola 2L,Beverages,1,40,2026-05-21,Miami,Delivered,Ehab Saeed,RID-11,2026-05-21 19:45:00,2026-05-21 19:54:00,Unknown Reason,9.0,40
+ORD-30014,CUST-1004,PRD-118,Chocolate Bar 100g,Snacks,1,22,2026-02-25,Gleem,Delivered,Ahmed Zaki,RID-09,2026-02-25 12:45:00,2026-02-25 12:45:00,In Progress,0.0,22
+ORD-30193,CUST-1045,PRD-117,Potato Chips 150g,Snacks,2,28,2026-05-15,Gleem,Delivered,Hazem ElSayed,RID-08,2026-05-15 17:15:00,2026-05-15 17:35:00,Traffic,20.0,56
+ORD-30046,CUST-1053,PRD-111,Cola 2L,Beverages,1,40,2026-02-03,Smouha,Cancelled,Nourhan Ragab,,,,no delays,0.0,40
+ORD-30191,CUST-1054,PRD-117,Potato Chips 150g,Snacks,1,28,2026-05-16,Zamalek,Delivered,Youssef Zaki,RID-01,2026-05-16 20:30:00,2026-05-16 20:46:00,Traffic,16.0,28
+ORD-30104,CUST-1048,PRD-103,White Cheese 250g,Dairy,1,75,2026-04-23,Gleem,Delivered,Reem Mahmoud,RID-09,2026-04-23 18:15:00,2026-04-23 18:14:00,On Time,0.0,75
+ORD-30037,CUST-1031,PRD-115,Laundry Detergent 1kg,Household,1,95,2026-02-02,Nasr City,Delivered,Doaa Nasser,RID-02,2026-02-02 21:30:00,2026-02-02 21:37:00,Unknown Reason,7.0,95
+ORD-30230,CUST-1023,PRD-110,Sparkling Water 6-pack,Beverages,3,65,2026-02-26,Maadi,Delivered,Bassem Farid,RID-05,2026-02-26 11:00:00,2026-02-26 10:45:00,On Time,0.0,195
+ORD-30021,CUST-1001,PRD-112,Iced Tea 500ml,Beverages,1,25,2026-04-02,Maadi,Delivered,Sherif Fathy,RID-07,2026-02-04 15:15:00,2026-02-04 15:15:00,On Time,0.0,25
+ORD-30220,CUST-1053,PRD-120,Biscuits 300g,Snacks,1,32,2026-10-05,Smouha,Delivered,Nourhan Ragab,RID-11,2026-05-10 17:00:00,2026-05-10 17:09:00,Unknown Reason,9.0,32
+ORD-30169,CUST-1032,PRD-101,Fresh Milk 1L,Dairy,2,45,2026-05-27,Miami,Delivered,Marwa ElNaggar,RID-01,2026-05-27 10:45:00,2026-05-27 11:22:00,Rider shortage,37.0,90
+ORD-30076,CUST-1023,PRD-107,Cucumbers 1kg,Produce,1,20,2026-03-15,Maadi,Delivered,Bassem Farid,RID-07,2026-03-15 19:45:00,2026-03-15 19:51:00,Unknown Reason,6.0,20
+ORD-30175,CUST-1042,PRD-106,Tomatoes 1kg,Produce,4,25,2026-05-26,Miami,Delivered,Omar Fathy,RID-02,2026-05-26 20:15:00,2026-05-26 20:09:00,On Time,0.0,100
+ORD-30246,CUST-1035,PRD-112,Iced Tea 500ml,Beverages,4,25,2026-03-02,Nasr City,Delivered,Adham Farouk,RID-10,2026-02-03 17:45:00,2026-02-03 18:15:00,Item unavailable,30.0,100
+ORD-30226,CUST-1023,PRD-106,Tomatoes 1kg,Produce,5,25,2026-04-18,Maadi,Delivered,Bassem Farid,RID-09,2026-04-18 17:15:00,2026-04-18 17:31:00,Rider shortage,16.0,125
+ORD-30219,CUST-1036,PRD-107,Cucumbers 1kg,Produce,1,20,2026-05-21,Smouha,Cancelled,Mostafa Fathy,,,,no delays,0.0,20
+ORD-30003,CUST-1047,PRD-113,Dish Soap 750ml,Household,1,48,2026-02-26,Maadi,Delivered,Hana Samir,RID-01,2026-02-26 18:45:00,2026-02-26 18:29:00,On Time,0.0,48
+ORD-30007,CUST-1012,PRD-108,Oranges 1kg,Produce,4,30,2026-02-19,Gleem,Delivered,Shaimaa Fathy,RID-07,2026-02-19 13:00:00,2026-02-19 12:50:00,On Time,0.0,120
+ORD-30240,CUST-1035,PRD-109,Orange Juice 1L,Beverages,5,50,2026-02-16,Nasr City,Delivered,Adham Farouk,RID-07,2026-02-16 11:15:00,2026-02-16 11:37:00,Rider shortage,22.0,250
+ORD-30252,CUST-1016,PRD-114,Paper Towels 4-pack,Household,4,70,2026-05-24,Maadi,Delivered,Rasha Fathy,RID-12,2026-05-24 20:15:00,2026-05-24 20:16:00,Unknown Reason,1.0,280
+ORD-30078,CUST-1031,PRD-112,Iced Tea 500ml,Beverages,1,25,2026-03-29,Nasr City,Delivered,Doaa Nasser,RID-01,2026-03-29 20:45:00,2026-03-29 20:47:00,Unknown Reason,2.0,25
+ORD-30114,CUST-1052,PRD-112,Iced Tea 500ml,Beverages,1,25,2026-04-21,Gleem,Delivered,Heba Ezzat,RID-10,2026-04-21 11:30:00,2026-04-21 11:29:00,On Time,0.0,25
+ORD-30066,CUST-1037,PRD-115,Laundry Detergent 1kg,Household,2,95,2026-03-30,Smouha,Delivered,Karim Samir,RID-11,2026-03-30 19:30:00,2026-03-30 19:31:00,Unknown Reason,1.0,190
+ORD-30152,CUST-1006,PRD-111,Cola 2L,Beverages,3,40,2026-04-11,Gleem,Delivered,Mona Nasser,RID-07,2026-04-11 14:30:00,2026-04-11 14:27:00,On Time,0.0,120
+ORD-30161,CUST-1046,PRD-111,Cola 2L,Beverages,1,40,2026-05-08,Maadi,Delivered,Adham Mahmoud,RID-02,2026-05-08 16:00:00,2026-05-08 16:04:00,Unknown Reason,4.0,40
+ORD-30047,CUST-1041,PRD-111,Cola 2L,Beverages,4,40,2026-03-18,Zamalek,Delivered,Ayman Shawky,RID-02,2026-03-18 19:15:00,2026-03-18 19:13:00,On Time,0.0,160
+ORD-30075,CUST-1052,PRD-103,White Cheese 250g,Dairy,1,75,2026-03-23,Gleem,Delivered,Heba Ezzat,RID-03,2026-03-23 14:00:00,2026-03-23 13:58:00,On Time,0.0,75
+ORD-30093,CUST-1006,PRD-109,Orange Juice 1L,Beverages,1,50,2026-03-04,Gleem,Delivered,Mona Nasser,RID-01,2026-03-04 21:30:00,2026-03-04 21:26:00,On Time,0.0,50
+ORD-30208,CUST-1034,PRD-109,Orange Juice 1L,Beverages,1,50,2026-05-17,Miami,Delivered,Emad Younes,RID-03,2026-05-17 14:30:00,2026-05-17 15:10:00,Rider shortage,40.0,50
+ORD-30088,CUST-1026,PRD-119,Mixed Nuts 200g,Snacks,1,65,2026-03-25,Maadi,Delivered,Nesma ElSayed,RID-02,2026-03-25 16:30:00,2026-03-25 16:25:00,On Time,0.0,65
+ORD-30144,CUST-1003,PRD-118,Chocolate Bar 100g,Snacks,2,22,2026-04-13,Smouha,Delivered,Ahmed ElSayed,RID-10,2026-04-13 09:45:00,2026-04-13 09:47:00,Unknown Reason,2.0,44
+ORD-30198,CUST-1025,PRD-101,Fresh Milk 1L,Dairy,3,45,2026-05-10,Smouha,Delivered,Omar Adel,RID-12,2026-05-10 15:30:00,2026-05-10 15:46:00,Traffic,16.0,135
+ORD-30011,CUST-1002,PRD-111,Cola 2L,Beverages,2,40,2026-02-14,Gleem,Delivered,Kamal Zaki,RID-07,2026-02-14 18:00:00,2026-02-14 17:51:00,On Time,0.0,80
+ORD-30163,CUST-1001,PRD-118,Chocolate Bar 100g,Snacks,2,22,2026-05-15,Maadi,Delivered,Sherif Fathy,RID-03,2026-05-15 12:00:00,2026-05-15 12:01:00,Unknown Reason,1.0,44
+ORD-30033,CUST-1008,PRD-115,Laundry Detergent 1kg,Household,4,95,2026-02-08,Nasr City,Delivered,Karim Aboulfotouh,RID-08,2026-02-08 11:00:00,2026-02-08 10:57:00,On Time,0.0,380
+ORD-30137,CUST-UNKNOWN,PRD-101,Fresh Milk 1L,Dairy,1,45,2026-04-10,Gleem,Delivered,Unknown Customer,,,,no delays,0.0,45
+ORD-30167,CUST-1029,PRD-102,Greek Yogurt 500g,Dairy,1,60,2026-05-29,Zamalek,Delivered,Sherif Kandil,RID-11,2026-05-29 11:15:00,2026-05-29 11:10:00,On Time,0.0,60
+ORD-30084,CUST-1016,PRD-109,Orange Juice 1L,Beverages,4,50,2026-03-20,Maadi,Delivered,Rasha Fathy,RID-01,2026-03-20 17:00:00,2026-03-20 17:02:00,Unknown Reason,2.0,200
+ORD-30224,CUST-1051,PRD-110,Sparkling Water 6-pack,Beverages,4,65,2026-05-16,Smouha,Delivered,Laila Fathy,RID-06,2026-05-16 16:15:00,2026-05-16 16:09:00,On Time,0.0,260
+ORD-30166,CUST-1001,PRD-106,Tomatoes 1kg,Produce,4,25,2026-05-05,Maadi,Delivered,Sherif Fathy,RID-11,2026-05-05 17:15:00,2026-05-05 17:11:00,On Time,0.0,100
+ORD-30156,CUST-1016,PRD-120,Biscuits 300g,Snacks,2,32,2026-05-27,Maadi,Delivered,Rasha Fathy,RID-12,2026-05-27 19:00:00,2026-05-27 19:05:00,Unknown Reason,5.0,64
+ORD-30101,CUST-1004,PRD-107,Cucumbers 1kg,Produce,1,20,2026-04-18,Gleem,Delivered,Ahmed Zaki,RID-06,2026-04-18 13:30:00,2026-04-18 13:36:00,Unknown Reason,6.0,20
+ORD-30126,CUST-1014,PRD-108,Oranges 1kg,Produce,1,30,2026-04-16,Miami,Returned,Wael Nasser,RID-06,2026-04-16 14:30:00,2026-04-16 14:36:00,Unknown Reason,6.0,30
+ORD-30024,CUST-1021,PRD-102,Greek Yogurt 500g,Dairy,1,60,2026-02-02,Gleem,Delivered,Ayman Ragab,RID-02,2026-02-02 16:15:00,2026-02-02 16:11:00,On Time,0.0,60
+ORD-30127,CUST-1013,PRD-118,Chocolate Bar 100g,Snacks,2,22,2026-09-04,Zamalek,Delivered,Rania Ibrahim,RID-11,2026-04-09 19:00:00,2026-04-09 19:04:00,Unknown Reason,4.0,44
+ORD-30196,CUST-1002,PRD-120,Biscuits 300g,Snacks,3,32,2026-07-05,Gleem,Delivered,Kamal Zaki,RID-12,2026-05-07 17:45:00,2026-05-07 17:37:00,On Time,0.0,96
+ORD-30010,CUST-1021,PRD-104,Butter 200g,Dairy,2,55,2026-02-19,Gleem,Delivered,Ayman Ragab,RID-02,2026-02-19 13:30:00,2026-02-19 13:22:00,On Time,0.0,110
+ORD-30243,CUST-1035,PRD-113,Dish Soap 750ml,Household,5,48,2026-04-15,Nasr City,Delivered,Adham Farouk,RID-03,2026-04-15 16:30:00,2026-04-15 16:46:00,Rider shortage,16.0,240
+ORD-30105,CUST-1020,PRD-104,Butter 200g,Dairy,3,55,2026-04-21,Gleem,Delivered,Sami Kandil,RID-10,2026-04-21 21:30:00,2026-04-21 21:37:00,Unknown Reason,7.0,165
+ORD-30154,CUST-1022,PRD-109,Orange Juice 1L,Beverages,2,50,2026-04-25,Smouha,Delivered,Islam Zaki,RID-12,2026-04-25 17:30:00,2026-04-25 17:22:00,On Time,0.0,100
+ORD-30218,CUST-1031,PRD-110,Sparkling Water 6-pack,Beverages,2,65,2026-03-05,Nasr City,Delivered,Doaa Nasser,RID-09,2026-05-03 15:45:00,2026-05-03 15:42:00,On Time,0.0,130
+ORD-30136,CUST-1050,PRD-101,Fresh Milk 1L,Dairy,2,45,2026-04-06,Miami,Delivered,Kamal Ibrahim,RID-03,2026-04-06 18:45:00,2026-04-06 19:12:00,Rider shortage,27.0,90
+ORD-30112,CUST-1005,PRD-109,Orange Juice 1L,Beverages,1,50,2026-04-01,Gleem,Delivered,Rana Ezzat,RID-11,2026-04-01 19:45:00,2026-04-01 19:46:00,Unknown Reason,1.0,50
+ORD-30222,CUST-1032,PRD-111,Cola 2L,Beverages,2,40,2026-05-24,Miami,Delivered,Marwa ElNaggar,RID-01,2026-05-24 16:15:00,2026-05-24 16:10:00,On Time,0.0,80
+ORD-30065,CUST-1021,PRD-111,Cola 2L,Beverages,2,40,2026-03-31,Gleem,Delivered,Ayman Ragab,RID-09,2026-03-31 11:15:00,2026-03-31 11:05:00,On Time,0.0,80
+ORD-30016,CUST-1026,PRD-102,Greek Yogurt 500g,Dairy,1,60,2026-02-09,Maadi,Delivered,Nesma ElSayed,RID-11,2026-02-09 19:00:00,2026-02-09 19:00:00,On Time,0.0,60
+ORD-30211,CUST-1010,PRD-102,Greek Yogurt 500g,Dairy,4,60,2026-05-03,Zamalek,Delivered,Aya ElSayed,RID-02,2026-05-03 19:00:00,2026-05-03 18:49:00,On Time,0.0,240
+ORD-30042,CUST-1006,PRD-102,Greek Yogurt 500g,Dairy,4,60,2026-02-01,Gleem,Delivered,Mona Nasser,RID-12,2026-02-01 14:30:00,2026-02-01 14:22:00,On Time,0.0,240
+ORD-30110,CUST-1049,PRD-108,Oranges 1kg,Produce,1,30,2026-04-06,Smouha,Delivered,Farida Ezzat,RID-04,2026-04-06 12:15:00,2026-04-06 12:00:00,On Time,0.0,30
+ORD-30081,CUST-1026,PRD-116,Trash Bags 30ct,Household,2,38,2026-03-20,Maadi,Delivered,Nesma ElSayed,RID-12,2026-03-20 18:30:00,2026-03-20 18:19:00,On Time,0.0,76
+ORD-30053,CUST-1012,PRD-109,Orange Juice 1L,Beverages,1,50,2026-03-20,Gleem,Delivered,Shaimaa Fathy,RID-12,2026-03-20 21:30:00,2026-03-20 21:29:00,On Time,0.0,50
+ORD-30027,CUST-1013,PRD-102,Greek Yogurt 500g,Dairy,4,60,2026-01-02,Zamalek,Delivered,Rania Ibrahim,RID-11,2026-02-01 10:45:00,2026-02-01 10:31:00,On Time,0.0,240
+ORD-30077,CUST-1032,PRD-112,Iced Tea 500ml,Beverages,4,25,2026-03-29,Miami,Delivered,Marwa ElNaggar,RID-06,2026-03-29 12:00:00,2026-03-29 11:49:00,On Time,0.0,100
+ORD-30044,CUST-1009,PRD-112,Iced Tea 500ml,Beverages,1,25,2026-03-12,Smouha,Delivered,Mariam Hassan,RID-07,2026-03-12 18:30:00,2026-03-12 18:27:00,On Time,0.0,25
+ORD-30025,CUST-1044,PRD-105,Bananas 1kg,Produce,1,35,2026-02-01,Gleem,Returned,Nourhan Hassan,RID-07,2026-02-01 20:00:00,2026-02-01 19:54:00,On Time,0.0,35
+ORD-30197,CUST-1051,PRD-110,Sparkling Water 6-pack,Beverages,2,65,2026-05-13,Smouha,Returned,Laila Fathy,RID-01,2026-05-13 10:00:00,2026-05-13 10:08:00,Unknown Reason,8.0,130
+ORD-30004,CUST-1016,PRD-120,Biscuits 300g,Snacks,2,32,2026-02-24,Maadi,Delivered,Rasha Fathy,RID-02,2026-02-24 21:00:00,2026-02-24 21:08:00,Unknown Reason,8.0,64
+ORD-30254,CUST-1016,PRD-104,Butter 200g,Dairy,3,55,2026-03-05,Maadi,Delivered,Rasha Fathy,RID-06,2026-05-03 18:45:00,2026-05-03 18:37:00,On Time,0.0,165
+ORD-30050,CUST-1009,PRD-105,Bananas 1kg,Produce,1,35,2026-03-29,Smouha,Delivered,Mariam Hassan,RID-08,2026-03-29 15:00:00,2026-03-29 15:00:00,On Time,0.0,35
+ORD-30150,CUST-1024,PRD-103,White Cheese 250g,Dairy,2,75,2026-09-04,Miami,Delivered,Doaa Samir,RID-10,2026-04-09 18:15:00,2026-04-09 18:16:00,Unknown Reason,1.0,150
+ORD-30199,CUST-1030,PRD-109,Orange Juice 1L,Beverages,2,50,2026-05-01,Smouha,Delivered,Fady Farouk,RID-03,2026-05-01 11:15:00,2026-05-01 11:09:00,On Time,0.0,100
+ORD-30132,CUST-1009,PRD-107,Cucumbers 1kg,Produce,3,20,2026-04-30,Smouha,Returned,Mariam Hassan,RID-11,2026-04-30 20:15:00,2026-04-30 20:04:00,On Time,0.0,60
+ORD-30031,CUST-1055,PRD-104,Butter 200g,Dairy,1,55,2026-02-22,Nasr City,Delivered,Khaled Nasser,RID-12,2026-02-22 12:15:00,2026-02-22 12:45:00,Rider shortage,30.0,55
+ORD-30201,CUST-1006,PRD-104,Butter 200g,Dairy,3,55,2026-05-29,Gleem,Delivered,Mona Nasser,RID-07,2026-05-29 12:30:00,2026-05-29 12:26:00,On Time,0.0,165
+ORD-30122,CUST-1019,PRD-104,Butter 200g,Dairy,1,55,2026-07-04,Gleem,Delivered,Salma Aboulfotouh,RID-11,2026-04-07 16:00:00,2026-04-07 15:55:00,On Time,0.0,55
+ORD-30176,CUST-1042,PRD-120,Biscuits 300g,Snacks,2,32,2026-05-21,Miami,Delivered,Omar Fathy,RID-06,2026-05-21 12:00:00,2026-05-21 12:00:00,On Time,0.0,64
+ORD-30116,CUST-1035,PRD-106,Tomatoes 1kg,Produce,2,25,2026-04-19,Nasr City,Delivered,Adham Farouk,RID-08,2026-04-19 16:45:00,2026-04-19 16:38:00,On Time,0.0,50
+ORD-30249,CUST-1016,PRD-108,Oranges 1kg,Produce,5,30,2026-05-04,Maadi,Delivered,Rasha Fathy,RID-09,2026-05-04 12:00:00,2026-05-04 11:51:00,On Time,0.0,150
+ORD-30217,CUST-1048,PRD-109,Orange Juice 1L,Beverages,4,50,2026-05-31,Gleem,Delivered,Reem Mahmoud,RID-12,2026-05-31 20:30:00,2026-05-31 20:28:00,On Time,0.0,200
+ORD-30009,CUST-1011,PRD-101,Fresh Milk 1L,Dairy,3,45,2026-02-20,Maadi,Delivered,Wael Farid,RID-04,2026-02-20 17:30:00,2026-02-20 17:30:00,On Time,0.0,135
+ORD-30210,CUST-1049,PRD-116,Trash Bags 30ct,Household,3,38,2026-05-24,Smouha,Delivered,Farida Ezzat,RID-03,2026-05-24 13:45:00,2026-05-24 13:35:00,On Time,0.0,114
+ORD-30061,CUST-1031,PRD-108,Oranges 1kg,Produce,3,30,2026-03-03,Nasr City,Delivered,Doaa Nasser,RID-02,2026-03-03 17:30:00,2026-03-03 17:32:00,Unknown Reason,2.0,90
+ORD-30129,CUST-1038,PRD-102,Greek Yogurt 500g,Dairy,2,60,2026-04-05,Zamalek,Delivered,Heba Adel,RID-12,2026-04-05 14:15:00,2026-04-05 14:02:00,On Time,0.0,120
+ORD-30002,CUST-1045,PRD-103,White Cheese 250g,Dairy,1,75,2026-02-02,Gleem,Delivered,Hazem ElSayed,RID-11,2026-02-02 17:00:00,2026-02-02 16:54:00,On Time,0.0,75
+ORD-30058,CUST-1010,PRD-105,Bananas 1kg,Produce,3,35,2026-03-20,Zamalek,Delivered,Aya ElSayed,RID-05,2026-03-20 13:15:00,2026-03-20 13:11:00,On Time,0.0,105
+ORD-30023,CUST-1005,PRD-109,Orange Juice 1L,Beverages,1,50,2026-02-09,Gleem,Cancelled,Rana Ezzat,,,,no delays,0.0,50
+ORD-30062,CUST-1002,PRD-111,Cola 2L,Beverages,2,40,2026-03-23,Gleem,Delivered,Kamal Zaki,RID-04,2026-03-23 14:45:00,2026-03-23 14:39:00,On Time,0.0,80
+ORD-30064,CUST-1014,PRD-102,Greek Yogurt 500g,Dairy,1,60,2026-03-29,Miami,Delivered,Wael Nasser,RID-07,2026-03-29 13:15:00,2026-03-29 13:09:00,On Time,0.0,60
+ORD-30008,CUST-1044,PRD-119,Mixed Nuts 200g,Snacks,1,65,2026-02-02,Gleem,Delivered,Nourhan Hassan,RID-01,2026-02-02 12:00:00,2026-02-02 12:08:00,Unknown Reason,8.0,65
+ORD-30138,CUST-1022,PRD-108,Oranges 1kg,Produce,2,30,2026-04-28,Smouha,Cancelled,Islam Zaki,,,,no delays,0.0,60
+ORD-30262,CUST-1019,PRD-115,Laundry Detergent 1kg,Household,4,95,2026-02-25,Gleem,Delivered,Salma Aboulfotouh,RID-03,2026-02-25 19:15:00,2026-02-25 19:07:00,On Time,0.0,380
+ORD-30142,CUST-1008,PRD-105,Bananas 1kg,Produce,2,35,2026-04-26,Nasr City,Delivered,Karim Aboulfotouh,RID-11,2026-04-26 15:15:00,2026-04-26 16:05:00,Rider shortage,50.0,70
+ORD-30087,CUST-1004,PRD-105,Bananas 1kg,Produce,3,35,2026-03-15,Gleem,Delivered,Ahmed Zaki,RID-01,2026-03-15 11:00:00,2026-03-15 11:00:00,On Time,0.0,105
+ORD-30097,CUST-1031,PRD-119,Mixed Nuts 200g,Snacks,1,65,2026-04-30,Nasr City,Delivered,Doaa Nasser,RID-03,2026-04-30 14:00:00,2026-04-30 13:58:00,On Time,0.0,65
+ORD-30223,CUST-1032,PRD-103,White Cheese 250g,Dairy,1,75,2026-05-24,Miami,Delivered,Marwa ElNaggar,RID-11,2026-05-24 21:15:00,2026-05-24 21:15:00,On Time,0.0,75
+ORD-30248,CUST-1035,PRD-104,Butter 200g,Dairy,5,55,2026-04-13,Nasr City,Delivered,Adham Farouk,RID-07,2026-04-13 16:30:00,2026-04-13 17:21:00,Traffic,51.0,275
+ORD-30242,CUST-1035,PRD-109,Orange Juice 1L,Beverages,5,50,2026-02-24,Nasr City,Delivered,Adham Farouk,RID-02,2026-02-24 16:45:00,2026-02-24 16:37:00,On Time,0.0,250
+ORD-30234,CUST-1028,PRD-102,Greek Yogurt 500g,Dairy,5,60,2026-02-09,Nasr City,Delivered,Rasha Ibrahim,RID-08,2026-02-09 16:15:00,2026-02-09 16:06:00,On Time,0.0,300
+ORD-30257,CUST-1019,PRD-109,Orange Juice 1L,Beverages,5,50,2026-04-22,Gleem,Delivered,Salma Aboulfotouh,RID-12,2026-04-22 17:15:00,2026-04-22 17:08:00,On Time,0.0,250
+ORD-30216,CUST-1014,PRD-111,Cola 2L,Beverages,2,40,2026-05-04,Miami,Delivered,Wael Nasser,RID-02,2026-05-04 11:30:00,2026-05-04 11:28:00,On Time,0.0,80
+ORD-30069,CUST-1016,PRD-107,Cucumbers 1kg,Produce,4,20,2026-03-17,Maadi,Delivered,Rasha Fathy,RID-04,2026-03-17 18:30:00,2026-03-17 18:17:00,On Time,0.0,80
+ORD-30051,CUST-1007,PRD-111,Cola 2L,Beverages,2,40,2026-03-13,Zamalek,Delivered,Tarek Mahmoud,RID-09,2026-03-13 17:15:00,2026-03-13 17:13:00,On Time,0.0,80
+ORD-30157,CUST-1038,PRD-101,Fresh Milk 1L,Dairy,2,45,2026-05-14,Zamalek,Delivered,Heba Adel,RID-06,2026-05-14 19:00:00,2026-05-14 19:07:00,Unknown Reason,7.0,90
+ORD-30253,CUST-1016,PRD-102,Greek Yogurt 500g,Dairy,4,60,2026-04-22,Maadi,Delivered,Rasha Fathy,RID-01,2026-04-22 19:45:00,2026-04-22 20:01:00,Unknown Reason,16.0,240
+ORD-30255,CUST-1016,PRD-102,Greek Yogurt 500g,Dairy,3,60,2026-02-14,Maadi,Delivered,Rasha Fathy,RID-07,2026-02-14 11:00:00,2026-02-14 11:00:00,In Progress,0.0,180
+ORD-30179,CUST-1037,PRD-102,Greek Yogurt 500g,Dairy,3,60,2026-05-24,Smouha,Returned,Karim Samir,RID-05,2026-05-24 13:00:00,2026-05-24 12:54:00,On Time,0.0,180
+ORD-30238,CUST-1028,PRD-113,Dish Soap 750ml,Household,3,48,2026-04-01,Nasr City,Delivered,Rasha Ibrahim,RID-03,2026-04-01 11:15:00,2026-04-01 11:53:00,Rider shortage,38.0,144
+ORD-30072,CUST-1032,PRD-110,Sparkling Water 6-pack,Beverages,1,65,2026-03-16,Miami,Delivered,Marwa ElNaggar,RID-04,2026-03-16 10:30:00,2026-03-16 10:23:00,On Time,0.0,65
+ORD-30130,CUST-1039,PRD-102,Greek Yogurt 500g,Dairy,3,60,2026-04-08,Maadi,Delivered,Mariam Younes,RID-08,2026-04-08 15:45:00,2026-04-08 15:45:00,In Progress,0.0,180
+ORD-30145,CUST-1026,PRD-110,Sparkling Water 6-pack,Beverages,3,65,2026-03-04,Maadi,Delivered,Nesma ElSayed,RID-08,2026-04-03 11:00:00,2026-04-03 11:08:00,Unknown Reason,8.0,195
+ORD-30134,CUST-1016,PRD-118,Chocolate Bar 100g,Snacks,1,22,2026-04-04,Maadi,Delivered,Rasha Fathy,RID-07,2026-04-04 09:45:00,2026-04-04 09:44:00,On Time,0.0,22
+ORD-30204,CUST-1020,PRD-102,Greek Yogurt 500g,Dairy,2,60,2026-05-21,Gleem,Delivered,Sami Kandil,RID-02,2026-05-21 21:00:00,2026-05-21 20:57:00,On Time,0.0,120
+ORD-30256,CUST-1016,PRD-102,Greek Yogurt 500g,Dairy,5,60,2026-04-26,Maadi,Delivered,Rasha Fathy,RID-07,2026-04-26 20:45:00,2026-04-26 21:06:00,Traffic,21.0,300
+ORD-30073,CUST-1040,PRD-104,Butter 200g,Dairy,1,55,2026-03-10,Nasr City,Cancelled,Rana Mahmoud,,,,no delays,0.0,55
+ORD-30236,CUST-1028,PRD-104,Butter 200g,Dairy,3,55,2026-02-22,Nasr City,Delivered,Rasha Ibrahim,RID-03,2026-02-22 12:00:00,2026-02-22 12:39:00,Traffic,39.0,165
+ORD-30038,CUST-1039,PRD-105,Bananas 1kg,Produce,3,35,2026-02-15,Maadi,Delivered,Mariam Younes,RID-03,2026-02-15 17:15:00,2026-02-15 17:08:00,On Time,0.0,105
